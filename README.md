@@ -81,6 +81,9 @@ Trong phần này để có thể đọc chữ trong ảnh ta sử dụng mô h�
 <br/>
 <br/>
 ## 3. Cách sử dụng
-• python3 api_pdf2excel.py None (None là giá trị số chỉ số lượng CPU chạy, nếu là None sẽ chạy tất cả các luồng CPU)
+• Chạy file api_pdf2excel có thêm tham số None (None là giá trị số chỉ số lượng CPU chạy, nếu là None sẽ chạy tất cả các luồng CPU)
+```script
+python3 api_pdf2excel.py None 
+```
 <br/>
 • Trong danh sách file mình đã viết Dockerfile mọi người có thể chạy.
